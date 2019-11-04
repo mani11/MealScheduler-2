@@ -26,8 +26,8 @@ class App extends Component {
     }
 
     /**
-     * ListMeals 
-     */
+     * getMealSchedule : Function to get the meals of the guests according to the dates 
+     */ 
 
     getMealSchedule = (hotel) => {
 
