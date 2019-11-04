@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite id="0" name="/Users/manleenbhatia/GeekStuff/git/react-course-projects/meal-scheduler-2/src/tests/App.test.js" errors="0" package="/Users/manleenbhatia/GeekStuff/git/react-course-projects/meal-scheduler-2/src/tests/App.test.js" hostname="localhost" tests="6" failures="0" time="1.506" timestamp="2019-11-04T21:51:02">
+    <properties>
+    </properties>
+    <testcase classname="Menu scheduler &lt;App /&gt;" name="application renders without crashing" time="0">
+    </testcase>
+    <testcase classname="Menu scheduler &lt;App /&gt;" name="check if meals schedule is generated for valid entries" time="0">
+    </testcase>
+    <testcase classname="Menu scheduler &lt;App /&gt;" name="check if meals schedule is generated for valid entries in right order" time="0">
+    </testcase>
+    <testcase classname="Menu scheduler &lt;App /&gt;" name="check if meals schedule is generated when one of the date ranges is invalid" time="0">
+    </testcase>
+    <testcase classname="Menu scheduler &lt;App /&gt;" name="check if no meals schedule is generated when both the date ranges are invalid" time="0">
+    </testcase>
+    <testcase classname="Menu scheduler &lt;App /&gt;" name="check meals schedule when input is empty" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+</testsuites>
